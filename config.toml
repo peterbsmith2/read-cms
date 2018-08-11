@@ -1,9 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://peterbsmith.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Read"
 theme = "blackburn"
-
-[taxonomies]
-  tag = "tags"
-  topic = "topics"
-  author = "authors"
