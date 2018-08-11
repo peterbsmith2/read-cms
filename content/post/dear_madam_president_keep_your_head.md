@@ -4,7 +4,7 @@ chapter = "Keep Your Head (And Your Heart) During a Storm)"
 title = "Dear Madam President"
 subtitle = "An Open Letter To The Women Who Will Run The World"
 author = "Jennifer Palmieri"
-chapter_number = "5"
+chapter_number = 5
 amazon = "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454/ref=sr_1_1?ie=UTF8&qid=1531148383&sr=8-1&keywords=dear+madam+president"
 bn = "https://www.barnesandnoble.com/w/dear-madam-president-jennifer-palmieri/1127172031?ean=9781538713457#/"
 +++
