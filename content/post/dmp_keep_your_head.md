@@ -1,16 +1,10 @@
 
 +++
-title = "Keep Your Head (And Your Heart) During a Storm)"
+chapter = "Keep Your Head (And Your Heart) During a Storm)"
+title = "Dear Madam President"
+subtitle = "An Open Letter To The Women Who Will Run The World"
 author = "Jennifer Palmieri"
-chapter= "5"
-description = ""
-tags = [
-    "useless"
-]
-date = "2014-04-02"
-topics = [
-    "Dear Madam President: An Open Letter To The Women Who Will Run The World",
-]
+chapter_number = "5"
 amazon = "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454/ref=sr_1_1?ie=UTF8&qid=1531148383&sr=8-1&keywords=dear+madam+president"
 bn = "https://www.barnesandnoble.com/w/dear-madam-president-jennifer-palmieri/1127172031?ean=9781538713457#/"
 +++
