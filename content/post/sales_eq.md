@@ -20,7 +20,7 @@ There are five stakeholders you meet in most deals: **B**uyers, **A**mplifiers, 
 Beginning with early-stage prospecting and information gathering, through qualifying and into discovery, ultra-high performers (UHPs) are identifying and mapping BASIC. They leave nothing to chance. UHPs build relationships and get to know their audience.  
   
 **Buyers** are essentially decision makers, people with the ultimate authority to say yes or no. There are two types of buyers:  
-1. Buyers who can authorize the deal, sign a contract or a purchase order, and say yes to the commitment
+1. Buyers who can authorize the deal, sign a contract or a purchase order, and say yes to the commitment  
 2. Buyers who can fund the deal and write the check
   
 Sometimes these stakeholders are the same person, and other times they are not. For example, the CIO may be able to say yes to a new software purcahse but until the CFO agrees to release the funds nothing will happen. A  corporate purchaser can say yes to your terms, and general managers at field locations can say yes to approving the budget.  
@@ -38,6 +38,7 @@ Understanding this difference will save you the pain and anguish of closing a de
 
 ##### The One Question Ultra-High Performers Never Ask
 In a recent training session, a sales rep called Ryan grabbed me on a break and asked me this question:  
+
 > Jeb, over the past month, I've had several of my potential accounts hit a wall because the person I was working with turned out not to be the decision maker. What is frustrating me is these people told me in our initial meeting they were the decision maker. I don't understand why people lie to me like that, and I want to know how I can identify who is telling me the truth and who is not.
   
 Ryan is not alone in his frustration. Average salespoeple often find themselves mired in stalled deals because they were dealing with the wrong perosn.  
@@ -45,6 +46,7 @@ Ryan is not alone in his frustration. Average salespoeple often find themselves 
 This usually happens because the stakeholder either says outright or insinuates that he or she is the final decision maker. Believing this to be true, the salesperson goes through the sales process with the stakeholder: connecting, discovering, presenting solutions, and asking for the business.  
   
 Then _bam!_ Out of nowhere the stakeholder says: 
+
 > Thank you for this great information, but I'm going to need to review this with my boss (the committee, my husband, wife, friend, peers, etc.) before we can make a decision.  
   
 If you've been in this situation, and I bet you have, it makes you want to scream. You try to get around it by asking for a meeting with their boss, but most of the time it is too late or they are unwilling to give you access. You fear if you go around them you'll poision the relationship and lose any hope of closing the deal.  
@@ -60,6 +62,7 @@ Sometimes you are dealing with a deceitful person who knows how the game is play
 These stakeholders are easy to spot because they are unwilling to engage, resist emotional connections, renege on commitments, and push you through the sales process just to get what they want. Salespeople driven by desperation are the most likely to get used by this type of prospect.  
   
 The most common reason this happens, though, is the salesperson asks one simple but deadly question: 
+
 > Are you the decision maker?  
   
 This is the _one_ question ultra-high performers never ask when qualifying a prospect. When you ask this question of any stakeholder, 90 percent of the time they are going to say yes.  
