@@ -31,4 +31,18 @@
   {{ end }}
   {{ end }}
 
+  {{ if isset .Params "amazon" }}
+  <div>
+    <i class="fa fa-book fa-fw"></i>
+    <a href={{ printf "%s" $.Params.amazon }}>Amazon</a>
+  </div>
+  {{ end }}
+
+  {{ if isset .Params "bn" }}
+  <div>
+    <i class="fa fa-book fa-fw"></i>
+    <a href={{ printf "%s" $.Params.bn }}>B&N</a>
+  </div>
+  {{ end }}
+
 </div>
