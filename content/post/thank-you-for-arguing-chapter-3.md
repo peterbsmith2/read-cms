@@ -5,6 +5,7 @@ subtitle = "WHAT ARISTOTLE, LINCOLN, AND HOMER SIMPSON CAN TEACH US ABOUT THE AR
 author = "JAY HEINRICHS "
 chapter_number = 3
 amazon = "https://www.amazon.com/Thank-You-Arguing-Revised-Updated/dp/0385347758/ref=sr_1_1?ie=UTF8&qid=1488659508&sr=8-1&keywords=THANK+YOU+for+arguing"
+books = ["THANK YOU FOR ARGUING"]
 +++
 
 The examples I gave of the core issues--blame, values, and choice--show a certain pattern. The blame questions deal with the past. The values questions are in the present tense. And the choice questions have to do with the future.

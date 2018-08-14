@@ -2,3 +2,28 @@ baseURL = "https://serene-austin-422de8.netlify.com/"
 languageCode = "en-us"
 title = "Read"
 theme = "blackburn"
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+  book = "books"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 2
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "Books"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 3
+    identifier = "book"
+    url = "/books/"
