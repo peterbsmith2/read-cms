@@ -5,13 +5,13 @@
   <h2>{{ .Site.Params.subtitle }}</h2>
 </div>
 
-<div class="content">
+<!-- <div class="content">
   {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}
     {{ .Render "summary"}}
   {{ end }}
 
   {{ partial "pagination.html" . }}
 
-</div>
+</div> -->
 
 {{ partial "footer.html" . }}

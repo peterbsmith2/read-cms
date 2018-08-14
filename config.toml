@@ -1,8 +1,10 @@
 baseURL = "https://serene-austin-422de8.netlify.com/"
 languageCode = "en-us"
-title = "Read"
+title = "HUMBLE AMERICAN"
 theme = "blackburn"
 
+[params]
+  subtitle = "and other oxymorons"
 [taxonomies]
   tag = "tags"
   topic = "topics"
