@@ -1,15 +1,16 @@
-+++
-chapter = "SELF-AGGRANDIZING ASSHOLE WITH THIN MORAL PRETEXT"
-title = "Assholes*"
-subtitle = "*A Theory"
-author = "Aaron James"
-chapter_number = 3
-amazon = "https://www.amazon.com/Assholes-Theory-Aaron-James/dp/0804171351/ref=sr_1_1?s=books&ie=UTF8&qid=1520180638&sr=1-1&keywords=assholes"
-bn = "https://www.barnesandnoble.com/w/assholes-aaron-james/1110864683?ean=9780804171359"
-+++
+---
+chapter: SELF-AGGRANDIZING ASSHOLE WITH THIN MORAL PRETEXT
+title: Assholes*
+chapter_number: 3
+bn: >-
+  https://www.barnesandnoble.com/w/assholes-aaron-james/1110864683?ean=9780804171359
+amazon: >-
+  https://www.amazon.com/Assholes-Theory-Aaron-James/dp/0804171351/ref=sr_1_1?s=books&ie=UTF8&qid=1520180638&sr=1-1&keywords=assholes
+author: Aaron James
+---
 
-Chapter 2 mentioned several examples of self-aggrandizement in the name of a larger moral cause. The newer style of self-aggrandizing asshole needs little or no such pretext. Jerry Falwell, for example, hardly missed an opportunity to seize the limelight with catchy comments about Jews (who "can make more money accidentally than you can on purpose"); Martin Luther King (of questionable sincerity given "left-wing associations"); Muslims ("Mohammed was a terrorist"); or homosexuals ("AIDS is not just God's punsihment for the society that tolerates homosexuals"). All of this was presumably supposed to have something to do with the hu,blename of Jesus of Nazareth, something that allowed Falwell, as a prominient evangelical Christian, to feel justified in saying things few thinking people would say. What that something was, or could have been, was never, quite clear, and Falwell did not seem especially inclined to publicly explain how it comported with Christian charity, the love of truth, and rejection of pride, if a potenital conflict even occurred to him. What he mainly cared about, it seems, was being on the air!  
+Chapter 2 mentioned several examples of self-aggrandizement in the name of a larger moral cause. The newer style of self-aggrandizing asshole needs little or no such pretext. Jerry Falwell, for example, hardly missed an opportunity to seize the limelight with catchy comments about Jews (who "can make more money accidentally than you can on purpose"); Martin Luther King (of questionable sincerity given "left-wing associations"); Muslims ("Mohammed was a terrorist"); or homosexuals ("AIDS is not just God's punishment for the society that tolerates homosexuals"). All of this was presumably supposed to have something to do with the humble name of Jesus of Nazareth, something that allowed Falwell, as a prominent evangelical Christian, to feel justified in saying things few thinking people would say. What that something was, or could have been, was never, quite clear, and Falwell did not seem especially inclined to publicly explain how it comported with Christian charity, the love of truth, and rejection of pride, if a potential conflict even occurred to him. What he mainly cared about, it seems, was being on the air!  
   
-Donald Trump plainly likes being on the air. He is convincingly portraeyed as an asshole in the documentary _Small Potatoes: Who Killed the USFL?_ (answer: Trump, as one man's greed and ego brought down a whole sports league). Lately, however, Trump believes there is something important in his appearing and reappearing in the news and on TV, without betraying any sense that a lot of us have a hard time seeing what that important something would be.  
+Donald Trump plainly likes being on the air. He is convincingly portrayed as an asshole in the documentary _Small Potatoes: Who Killed the USFL?_ (answer: Trump, as one man's greed and ego brought down a whole sports league). Lately, however, Trump believes there is something important in his appearing and reappearing in the news and on TV, without betraying any sense that a lot of us have a hard time seeing what that important something would be.  
   
 In Trump's defense, it may be said that he is merely an "ass-clown" or, still more charitably, an elder master of the attention-getting game now played daily by the Facebook youth. He may in that regard seem a role model, an accomplished media entrepreneur, and while this isn't quite a public service, it is at least the kind of thing modern society loves. In a culture of narcissism, you don't need any special reason to lay claim to the attention of others; you simply get attention as you can, as anyone else of course would ("if you don't flaunt it, you don't got it", to reverse a familiar saying). On the other hand, if we find our current zeitgeist mistaken, on the grounds that laying claim to the attention of others _does_ require good enough reasons-- whether for the sake of modesty or just for the sake of not adding to the deafening contemporary media noise machine--then we can view narcissistic attention seeeking as a way of acting like an asshole. Our narcissistic age thus might help explain why assholes seem to be everywhere of late.
