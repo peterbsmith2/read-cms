@@ -18,3 +18,4 @@ collections:
       - {label: "B&N", name: "bn", widget: "string"}
       - {label: "Amazon", name: "amazon", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
