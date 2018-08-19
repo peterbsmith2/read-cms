@@ -5,6 +5,7 @@ subtitle = "WHAT ARISTOTLE, LINCOLN, AND HOMER SIMPSON CAN TEACH US ABOUT THE AR
 author = "JAY HEINRICHS "
 chapter_number = 9
 amazon = "https://www.amazon.com/Thank-You-Arguing-Revised-Updated/dp/0385347758/ref=sr_1_1?ie=UTF8&qid=1488659508&sr=8-1&keywords=THANK+YOU+for+arguing"
+books = ["THANK YOU FOR ARGUING"]
 +++
 
 Other emotions--such as joy, love, esteem, and compassion--work better, Aristotle said. Some people tend to revel in them, while others start fund drives. Hurricanes Katrina and Sandy showed the power of compassion, but a disaster carries more force than an argument. When you want action to come out of argument, your most useful emotions arouse peopel's tribal instincts--exploiting their insecurities about where they stand in a group, and how much they belong to it. I mentioned in an earlier chapter that you want the audience to identify with you and, through you, the action you promote. This is why Aristotle listed *anger, patriotism,* and *emulation* among emotions that can get an audience out of its seats and make it do what you want.  

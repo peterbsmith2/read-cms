@@ -5,6 +5,7 @@ subtitle = "WHAT ARISTOTLE, LINCOLN, AND HOMER SIMPSON CAN TEACH US ABOUT THE AR
 author = "JAY HEINRICHS "
 chapter_number = 4
 amazon = "https://www.amazon.com/Thank-You-Arguing-Revised-Updated/dp/0385347758/ref=sr_1_1?ie=UTF8&qid=1488659508&sr=8-1&keywords=THANK+YOU+for+arguing"
+books = ["THANK YOU FOR ARGUING"]
 +++
 
 > Salespeople love to use concession to sell you stuff. I once had a boss who came from a sales background. He proved  that old habits die hard. The guy never disagreed with me, yet half the time he got me to do the opposite of what I proposed.

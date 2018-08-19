@@ -5,6 +5,7 @@ subtitle = "WHAT ARISTOTLE, LINCOLN, AND HOMER SIMPSON CAN TEACH US ABOUT THE AR
 author = "JAY HEINRICHS "
 chapter_number = 20
 amazon = "https://www.amazon.com/Thank-You-Arguing-Revised-Updated/dp/0385347758/ref=sr_1_1?ie=UTF8&qid=1488659508&sr=8-1&keywords=THANK+YOU+for+arguing"
+books = ["THANK YOU FOR ARGUING"]
 +++
 
 > > He: You're comin' this Thanksgiving, ahn't you? When do the children get out of skoo'?

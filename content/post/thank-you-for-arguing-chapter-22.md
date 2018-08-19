@@ -5,6 +5,7 @@ subtitle = "WHAT ARISTOTLE, LINCOLN, AND HOMER SIMPSON CAN TEACH US ABOUT THE AR
 author = "JAY HEINRICHS "
 chapter_number = 22
 amazon = "https://www.amazon.com/Thank-You-Arguing-Revised-Updated/dp/0385347758/ref=sr_1_1?ie=UTF8&qid=1488659508&sr=8-1&keywords=THANK+YOU+for+arguing"
+books = ["THANK YOU FOR ARGUING"]
 +++
 
 You'd think, on the other hand, that _eunoia_, or disinterest, would call for an apology. Disinterest shows you really care, right? But disinterest can't work in isolation from _phronesis_. You need to show that you care, but also that you can fix the problem. So the ininterested way to respond to a screw-up is to show how much you care by fixing the problem. Southwest Airlines, one of my clients, once suffered a computer glitch that booked multiple tickets for each customer who responded to a chea-flight promotion. The airline sent an email to every victim saying, "We've put all hands on deck" to fix the problem. That's the disinterested part. _We've dropped everything to get this right_. That's what you need to do: show you're willing to do whatever it takes. Again, no apology necessary.
