@@ -6,6 +6,7 @@ author = "Martin Luther King, Jr."
 chapter_number = 4
 amazon = "https://www.amazon.com/Autobiography-Martin-Luther-King-Jr/dp/0446676500/ref=sr_1_1?ie=UTF8&qid=1509817887&sr=8-1&keywords=autobiography+of+martin+luther+king"
 bn = "https://www.barnesandnoble.com/w/autobiography-of-martin-luther-king-jr-martin-luther-king-jr/1100623229?ean=9780446676502#/"
+books=["The Autobiography of Martin Luther King, Jr."]
 +++
 
 I studied philosophy and theology at Boston University under Edgar S. Brightman and L. Harold DeWolf. I did most of my work under Dr. DeWolf, who is a very dear friend of mine, and, of course, I was greatly influenced by him and Dr. Brightman, whom I had the privilege to study with before he passed on. It was mainly under these teachers that I studied Personalistic philosophy--the theory that the clue to the meaning of ultimate reality is found in personality. This personal idealism remains today my basic philosophical position. Personalism's insistence that only personality--finite and inifinite--is ultimately real strengthened me in two convictions: it gave me metaphysical and philosophical grounding for the idea of a personal God, and it gave me a metaphysical basis for the dignity and worth of all human personality.  

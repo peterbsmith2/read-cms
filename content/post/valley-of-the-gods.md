@@ -5,6 +5,7 @@ subtitle = "a silicon valley story"
 author = "Alexandra Wolfe"
 chapter_number = 10
 amazon = "https://www.amazon.com/Valley-Gods-Silicon-Story/dp/1476778949/ref=sr_1_1?ie=UTF8&qid=1487530267&sr=8-1&keywords=valley+of+the+gods"
+books=["Valley of the Gods"]
 +++
 
 > He [Jack Abraham, Thiel Fellowship's leader] advised founders not to alert the government about their companies without absolutely needing to do so.

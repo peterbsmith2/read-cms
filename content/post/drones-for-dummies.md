@@ -4,6 +4,7 @@ title = "Drones FOR DUMMIES"
 author = "Mark LaFay"
 chapter_number = 17
 amazon = "https://www.amazon.com/Drones-Dummies-Mark-LaFay/dp/1119049784/"
+books=["Drones FOR DUMMIES"]
 +++
 
 #### Knowing the Proposed Commerical Drone Rules

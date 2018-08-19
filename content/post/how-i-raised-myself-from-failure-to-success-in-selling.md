@@ -5,6 +5,7 @@ author = "Frank Bettger"
 chapter_number = 18
 amazon = "https://www.amazon.com/Raised-Myself-Failure-Success-Selling/dp/067179437X/ref=sr_1_1?ie=UTF8&qid=1510762273&sr=8-1&keywords=how+i+raised+myself+from+failure+to+success+in+selling"
 bn = "https://www.barnesandnoble.com/s/how+i+raised+myself+from+failure+to+success+in+selling?_requestid=374987"
+books=["How I Raised Myself From Failure To Success In Selling"]
 +++
 
 I've been told that probably the most important thing a trial lawyer does in pleading a case before court is to bring on his witnesses. Naturally, the judge and jury feel that the lawyer is prejudiced in his views, so they are likely to discount some of the things he says. But good testimony from a reliable witness exerts a powerful influence on the court in establishing confidence for the lawyer as he builds his case.  

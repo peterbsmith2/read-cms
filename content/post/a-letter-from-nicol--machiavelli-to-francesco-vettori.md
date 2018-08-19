@@ -5,6 +5,7 @@ author = "Niccolò Machiavelli"
 chapter_number = 1
 amazon = "https://www.amazon.com/Prince-Other-Writings-Barnes-Classics/dp/1593080603/ref=sr_1_1?ie=UTF8&qid=1521400535&sr=8-1&keywords=the+prince+and+other+writings"
 bn = "https://www.barnesandnoble.com/w/prince-and-other-writings-niccolo-machiavelli/1100318800?ean=9781593080600"
+books=['A Letter From Niccolò Machiavelli To Francesco Vettori']
 +++
 
 Niccolò Machiavelli to Francesco Vettori  

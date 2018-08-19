@@ -6,6 +6,7 @@ author = "Jason Fried & David Heinemeir Hansson"
 chapter_number = 6
 amazon = "https://www.amazon.com/Rework-Jason-Fried/dp/0307463745/ref=sr_1_1?ie=UTF8&qid=1513098690&sr=8-1&keywords=rework"
 bn = "https://www.barnesandnoble.com/w/rework-jason-fried/1102048884?ean=9780307463746#/"
+books=["Rework"]
 +++
 
 Sometimes copying can be part of the learning process, like when you see an art student replicating a painting in a museum or a drummer playing along to John Bonham's solo on Led Zeppelin's "Moby Dick." When you're a student, this sort of imitation can be a helpful tool on the path to discovering your own voice.  

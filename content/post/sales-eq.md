@@ -7,6 +7,7 @@ author = "Jeb Blount"
 chapter_number = 17
 amazon = "https://www.amazon.com/Sales-Performers-Sales-Specific-Emotional-Intelligence/dp/1119312574/ref=sr_1_1?s=books&ie=UTF8&qid=1508698622&sr=1-1&keywords=sales+eq"
 bn = "https://www.barnesandnoble.com/w/sales-eq-jeb-blount/1124588906?ean=9781119312574#/"
+books=["Sales EQ"]
 +++
 
 #### Contents

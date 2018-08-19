@@ -5,6 +5,7 @@ subtitle = "A PRACTICAL INTRODUCTION TO THE NEW WEB DEVELOPMENT PLATFORM"
 author = "Sebastian Eschweiler"
 chapter_number = 2
 leanpub = "https://leanpub.com/angular2-book"
+books=["Angular 2"]
 +++
 
 > As every module the application module is implemented by using a class and attaching the_@NgModule_ decorator as you can see in the code listing. This decorator is imported from _@angular/core_.  

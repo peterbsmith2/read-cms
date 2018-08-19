@@ -6,6 +6,7 @@ author = "AARON ROSS AND JASON LEMKIN"
 chapter_number = 7
 amazon = "https://www.amazon.com/Impossible-Inevitable-Hyper-Growth-Companies-Predictable/dp/1119166713/ref=sr_1_1?ie=UTF8&qid=1492604912&sr=8-1&keywords=FROM+IMPOSSIBLE+TO+INEVITABLE"
 bn = "http://www.barnesandnoble.com/w/from-impossible-to-inevitable-aaron-ross/1122590089?ean=9781119166719"
+books=["FROM IMPOSSIBLE TO INEVITABLE"]
 +++
 
 ### Quotes

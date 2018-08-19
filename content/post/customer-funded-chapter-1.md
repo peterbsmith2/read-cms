@@ -5,6 +5,7 @@ subtitle = "Start, Finance, or Grow Your Company with Your Customers' Cash"
 author = "John Mullins"
 chapter_number = 1
 amazon = "https://www.amazon.com/Customer-Funded-Business-Finance-Company-Customers/dp/111887885X/ref=sr_1_1?ie=UTF8&qid=1475543646&sr=8-1&keywords=customer+funded+business+model"
+books=["The Customer-Funded Business"]
 +++ 
 
 ## Quotes

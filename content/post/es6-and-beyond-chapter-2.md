@@ -6,6 +6,7 @@ author = "KYLE SIMPSON"
 chapter_number = 2
 amazon = "https://www.amazon.com/You-Dont-Know-JS-Beyond/dp/1491904240/ref=sr_1_1?s=books&ie=UTF8&qid=1487530921&sr=1-1&keywords=es6+and+beyond"
 github = "https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond"
+books=["YOU DON'T KNOW JAVASCRIPT"]
 +++
 
 ## Quotes

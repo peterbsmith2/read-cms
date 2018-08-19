@@ -42,4 +42,11 @@
   </div>
   {{ end }}
 
+  {{ if isset .Params "leanpub" }}
+  <div>
+    <i class="fa fa-book fa-fw"></i>
+    <a href={{ printf "%s" $.Params.leanpub }}>LeanPub</a>
+  </div>
+  {{ end }}
+
 </div>

@@ -6,6 +6,7 @@ author = "Grant Cardone"
 chapter_number = 10
 amazon = "https://www.amazon.com/Sell-Be-Sold-Your-Business/dp/1608322564/ref=sr_1_1?ie=UTF8&qid=1510757997&sr=8-1&keywords=sell+or+be+sold"
 bn = "https://www.barnesandnoble.com/w/sell-or-be-sold-grant-cardone/1111243903?ean=9781608322565#/"
+books=["Sell or be Sold"]
 +++
 
 ### Tips on using written and visual information to close

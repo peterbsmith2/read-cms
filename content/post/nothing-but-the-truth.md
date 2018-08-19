@@ -6,6 +6,7 @@ author = "Maryann Karinch"
 chapter_number = 3
 amazon = "https://www.amazon.com/Nothing-But-Truth-Intelligence-Conversations/dp/1601633521/ref=sr_1_1?s=books&ie=UTF8&qid=1520184819&sr=1-1&keywords=nothing+but+the+truth+maryann+karinch"
 bn = "https://www.barnesandnoble.com/w/nothing-but-the-truth-maryann-karinch/1119080074?ean=9781601633521"
+books=["Nothing But The Truth"]
 +++
 
 ### The Scharff Method 

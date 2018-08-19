@@ -5,6 +5,7 @@ subtitle = "Discover the Whole30 and Change Your Life in Unexpected Ways"
 author = "DALLAS HARTWIG & MELISSA HARTWIG"
 chapter_number = 10
 amazon = "https://www.amazon.com/Starts-Food-Discover-Whole30-Unexpected/dp/1628600543/ref=sr_1_1?s=books&ie=UTF8&qid=1487530465&sr=1-1&keywords=it+starts+with+food"
+books=["IT STARTS WITH FOOD"]
 +++
 
 > Pg 117: Legumes include all types of beans, peas, lentils, and peanuts (which are not actaully a "nut" at all)

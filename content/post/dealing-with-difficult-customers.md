@@ -6,6 +6,7 @@ author = "Noah Fleming and Shawn Veltman"
 chapter_number = 6
 amazon = "https://www.amazon.com/Dealing-Difficult-Customers-Dissatisfied-Disagreeable/dp/1632651173/ref=sr_1_1?ie=UTF8&qid=1513103544&sr=8-1&keywords=dealing+with+difficult+customers"
 bn = "https://www.barnesandnoble.com/w/dealing-with-difficult-customers-noah-fleming/1126293179?ean=9781632651174#/"
+books=["Dealing With Difficult Customers"]
 +++
 
 ### Start Small, But Start!

@@ -4,6 +4,7 @@ title = "_The_ ONLY SALES GUIDE YOU'LL EVER NEED"
 author = "ANTHONY IANNARINO"
 chapter_number = 11
 amazon = "https://www.amazon.com/Only-Sales-Guide-Youll-Ever/dp/0735211671/ref=sr_1_1?ie=UTF8&qid=1487531261&sr=8-1&keywords=the+only+sales+guide"
+books=["_The_ ONLY SALES GUIDE YOU'LL EVER NEED"]
 +++
 
 > While more closing behavior did lead to more sales, that was only true if both price and risk were relatively low.

@@ -7,6 +7,7 @@ author = "Jennifer Palmieri"
 chapter_number = 5
 amazon = "https://www.amazon.com/Dear-Madam-President-Letter-Women/dp/1538713454/ref=sr_1_1?ie=UTF8&qid=1531148383&sr=8-1&keywords=dear+madam+president"
 bn = "https://www.barnesandnoble.com/w/dear-madam-president-jennifer-palmieri/1127172031?ean=9781538713457#/"
+books=["Dear Madam President"]
 +++
 
 Madam Presdient, in the course of my career, I have ridden out more than my share of political storms. I was there for Whitewater, the Clinton impeachment, John Edwards's trial, the HealthCare.gov website crash, teh Ebola epiidemic, Hillary's emails, Russian hacks and leaks, multiple natural disasters, and foreign policy crises like the Kosovo War and ISIS beheadings. It is pretty fair to say that I have seen it all, and it is certain that you will encounter many more crises in the Oval Office. Know they can have a very destabilizing effect on a White House if you fail to lead properly. You are going to need to keep both a cool head and a warm heart to steer your ship through the storm.  

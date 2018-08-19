@@ -5,6 +5,7 @@ subtitle = "KILLING BY REMOTE CONTROL"
 author = "MEDEA BENJAMIN"
 chapter_number = 17
 amazon = "https://www.amazon.com/Drone-Warfare-Killing-Remote-Control/dp/1781680779/ref=sr_1_2?ie=UTF8&qid=1490549327&sr=8-2&keywords=drone+warfare"
+books=["Drone Warfare"]
 +++
 
 > "On the drive out here, you get yourself ready to enter the compartment of your life that is flying combat," retired Col. Chris Chambliss told the _Los Angeles Times_. "And on the drive home, you get ready for that part of your life that's going to be the soccer game."  

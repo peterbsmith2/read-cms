@@ -6,6 +6,7 @@ author = "Aaron James"
 chapter_number = 3
 amazon = "https://www.amazon.com/Assholes-Theory-Aaron-James/dp/0804171351/ref=sr_1_1?s=books&ie=UTF8&qid=1520180638&sr=1-1&keywords=assholes"
 bn = "https://www.barnesandnoble.com/w/assholes-aaron-james/1110864683?ean=9780804171359"
+books= ["assholes"]
 +++
 
 Chapter 2 mentioned several examples of self-aggrandizement in the name of a larger moral cause. The newer style of self-aggrandizing asshole needs little or no such pretext. Jerry Falwell, for example, hardly missed an opportunity to seize the limelight with catchy comments about Jews (who "can make more money accidentally than you can on purpose"); Martin Luther King (of questionable sincerity given "left-wing associations"); Muslims ("Mohammed was a terrorist"); or homosexuals ("AIDS is not just God's punsihment for the society that tolerates homosexuals"). All of this was presumably supposed to have something to do with the hu,blename of Jesus of Nazareth, something that allowed Falwell, as a prominient evangelical Christian, to feel justified in saying things few thinking people would say. What that something was, or could have been, was never, quite clear, and Falwell did not seem especially inclined to publicly explain how it comported with Christian charity, the love of truth, and rejection of pride, if a potenital conflict even occurred to him. What he mainly cared about, it seems, was being on the air!  

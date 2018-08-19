@@ -5,6 +5,7 @@ subtitle = "A PRACTICAL INTRODUCTION TO THE NEW WEB DEVELOPMENT PLATFORM"
 author = "Sebastian Eschweiler"
 chapter_number = 7
 leanpub = "https://leanpub.com/angular2-book"
+books=["Angular 2"]
 +++
 
 #### Adding the Base Element

@@ -6,6 +6,7 @@ author = "Alisa Keeton"
 chapter_number = 1
 amazon = "https://www.amazon.com/Wellness-Revelation-Weighs-Yourself-Others/dp/1496422473/ref=sr_1_1?ie=UTF8&qid=1520177872&sr=8-1&keywords=the+wellness+revelation"
 bn = "https://www.barnesandnoble.com/w/the-wellness-revelation-alisa-keeton/1125546113?ean=9781496422477#/"
+books=["The Wellness Revelation"]
 +++
 
 Early in my fitness career, Karen, a more seasoned female trainer, told me that my body had great symmetry. She had quite the following among our clients, so I respected her opinion. Karen suggested that, with a little bit of effort and training, I could be a strong competitor in fitness shows. I was so hungry for meaning, validation, and approval that her words "You could be a real contender" were enough to make me look into what it would take to bring home a trophy from a competition.  

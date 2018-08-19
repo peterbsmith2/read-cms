@@ -5,6 +5,7 @@ subtitle = "How to Be Insanely Great in Front of Any Audience"
 author = "Carmine Gallo"
 amazon = "https://www.amazon.com/Presentation-Secrets-Steve-Jobs-Development/dp/0071636080/ref=sr_1_1?ie=UTF8&qid=1490904484&sr=8-1&keywords=presentation+secrets+of+steve+jobs"
 bn = "http://www.barnesandnoble.com/w/presentation-secrets-of-steve-jobs-carmine-gallo/1100036491?ean=9781259835889"
+books=["The Presentation Secrets of Steve Jobs"]
 +++
 
 > Following are seven of Schiller's techniques that Jobs himself would surely have used had he given the keynote:

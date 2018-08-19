@@ -6,6 +6,7 @@ author = "Jay Heinrichs"
 chapter_number = 29
 amazon = "https://www.barnesandnoble.com/w/thank-you-for-arguing-third-edition-jay-heinrichs/1124987167?ean=9780804189934#/"
 bn = "https://www.barnesandnoble.com/w/thank-you-for-arguing-third-edition-jay-heinrichs/1124987167?ean=9780804189934#/"
+books=["Thank You for Arguing, Third Edition"]
 +++
 
 This may sound like an _ethos_ question, but it may take some logic to convince him. How can you reveal your mentoring skill while sitting alone with him? One way is to come up with examples--inductive logic. Suppose you don't have any supervisory experience, though. Remember that facts compose only one of three kinds of examples, the other two being comparison and story. Time for some storytelling!  

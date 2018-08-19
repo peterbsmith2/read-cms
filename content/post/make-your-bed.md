@@ -6,6 +6,7 @@ author = "Admiral William H. McRaven"
 chapter_number = 7
 amazon = "https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249/ref=sr_1_1?ie=UTF8&qid=1508690749&sr=8-1&keywords=make+your+bed"
 bn = "https://www.barnesandnoble.com/w/make-your-bed-william-mcraven/1124481737?ean=9781455570249#/"
+books=["MAKE YOUR BED"]
 +++
 
 > If you want to change the world... don't back down from the sharks.  

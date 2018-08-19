@@ -5,6 +5,7 @@ author = "John Asher"
 chapter_number = 10
 amazon = "https://www.amazon.com/s/ref=nb_sb_ss_c_1_11?url=search-alias%3Daps&field-keywords=close+deals+faster&sprefix=mass+gainer%2Caps%2C300&crid=UZPS4XDW62TD"
 bn = "https://www.barnesandnoble.com/w/close-deals-faster-john-asher/1126658114?ean=9781940858395#/"
+books = ["Close Deals Faster"]
 +++
 
 Almost every study about how to get leads and develop prospects concludes that referrals are the number-one tactic. Most experts estimate that ereferral-based selling has a conversion rate of at least 50 percent, with many salespeople reporting that they close between 70 and 90 percent retention rate, and about half of all qualified referrals that are properly pursued eventually buy.  

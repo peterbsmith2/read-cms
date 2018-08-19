@@ -5,6 +5,7 @@ subtitle = "_The_ CONSERVATIVE PLAYBOOK for a LASTING GOP MAJORITY"
 author = "HUGH HEWITT"
 chapter_number = 6
 amazon = "https://www.amazon.com/Fourth-Way-Conservative-Playbook-Majority/dp/1501172441/ref=sr_1_1?ie=UTF8&qid=1487530168&sr=8-1&keywords=the+fourth+way"
+books=["THE FOURTH WAY"]
 +++
 
 > Impeachments are political trials. Here is the entirety of the Constitution's statement on that subject:

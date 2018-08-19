@@ -5,6 +5,7 @@ author = "John Asher"
 chapter_number = 9
 amazon = "https://www.amazon.com/s/ref=nb_sb_ss_c_1_11?url=search-alias%3Daps&field-keywords=close+deals+faster&sprefix=mass+gainer%2Caps%2C300&crid=UZPS4XDW62TD"
 bn = "https://www.barnesandnoble.com/w/close-deals-faster-john-asher/1126658114?ean=9781940858395#/"
+books = ["Close Deals Faster"]
 +++
 
 You may have heard salespeople described as hunters or farmers. Hunters dedicate most of their time to finding new prospects and closing them. Farmers prefer to execute brilliantly for the new customer, develop strong client relationships and seek out additional opportunities with them. Once you have closed the business, you have ceased being a hunter with that particular customer. At this point, companies handle the proper care and feeding of the new clients in one of several ways:  

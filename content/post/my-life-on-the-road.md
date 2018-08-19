@@ -4,6 +4,7 @@ title = "My Life on the Road"
 author = "Gloria Steinem"
 chapter_number = 1
 amazon = "https://www.amazon.com/My-Life-Road-Gloria-Steinem/dp/0345408160/ref=sr_1_1?s=books&ie=UTF8&qid=1487530851&sr=1-1&keywords=my+life+on+the+road+by+gloria+steinem"
+books=["My Life on the Road"]
 +++
 
 > ...from the age of four or so, I came into my own as the wrapper and unwrapper of china and other small items that we cushioned in newspaper and carried in cardboard boxes over country roads. Each of us had a role in the family economic unit, including my sister, nine years older than I, who in the summer sold popcorn from a professional stand my father bought her.

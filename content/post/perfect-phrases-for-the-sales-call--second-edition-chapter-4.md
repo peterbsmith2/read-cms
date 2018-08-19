@@ -6,6 +6,7 @@ author = "Jeb Brooks and William T. Brooks"
 chapter_number = 4
 amazon = "https://www.amazon.com/Perfect-Phrases-Sales-Call-Second/dp/0071745041/ref=sr_1_1?ie=UTF8&qid=1510760739&sr=8-1&keywords=perfect+phrases+for+the+sales+call"
 bn = "https://www.barnesandnoble.com/w/perfect-phrases-for-the-sales-call-jeb-brooks/1102881090?ean=9780071745048#/"
+books=["Perfect Phrases for the Sales Call, Second Edition"]
 +++
 
 ### Appointment Setting Scenarios

@@ -6,6 +6,7 @@ author = "Judd Apatow"
 chapter_number = 1
 amazon = "https://www.amazon.com/Sick-Head-Conversations-About-Comedy/dp/0812987284/ref=sr_1_1?ie=UTF8&qid=1512325236&sr=8-1&keywords=sick+in+the+head"
 bn = "https://www.barnesandnoble.com/w/sick-in-the-head-judd-apatow/1121324091?ean=9780812987287"
+books=["Sick In The Head"]
 +++
 
 I couldn't wait to talk to Jerry Seinfeld again for this book, thirty years after our first interview. Jerry is someone I have known a little bit for a long time. Whenever I'm around him, though, I usually don't speak much. I'm still a little bit intimidated. The truth is, most comedians don't understand why he's so happy when they're so tortured. But I look up to him more than ever, and every conversation with him is an opportunity to learn. You'd be a fool not to take advantage of what Jerry Seinfeld has to offer.  

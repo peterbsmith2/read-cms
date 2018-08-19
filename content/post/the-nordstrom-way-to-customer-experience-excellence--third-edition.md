@@ -6,6 +6,7 @@ author = "Robert Spector & Breanne O. Reeves"
 chapter_number = 4
 amazon = "https://www.amazon.com/Nordstrom-Customer-Experience-Excellence-Values-Driven/dp/1119375355/ref=sr_1_2?ie=UTF8&qid=1513093630&sr=8-2&keywords=nordstrom+way"
 bn = "https://www.barnesandnoble.com/w/the-nordstrom-way-to-customer-experience-excellence-robert-spector/1126025642?ean=9781119375357"
+books=["The Nordstrom Way To Customer Experience Excellence: Third Edition"]
 +++
    
 ### The Diamond Story
