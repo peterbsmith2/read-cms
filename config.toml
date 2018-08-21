@@ -9,6 +9,7 @@ theme = "blackburn"
   tag = "tags"
   topic = "topics"
   book = "books"
+  wire = "the wire"
 
 [menu]
   [[menu.main]]
@@ -29,3 +30,9 @@ theme = "blackburn"
     weight = 3
     identifier = "book"
     url = "/books/"
+[[menu.main]]
+    name = "The Wire"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 3
+    identifier = "the-wire"
+    url = "/the-wire/"
