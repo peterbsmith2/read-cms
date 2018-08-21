@@ -19,7 +19,8 @@ Warning: this is kind of a dirty joke. A mean feels sick, so he goes to a clinic
 > Doc: I'm dating her.  
   
 Nice bedside manner, dude. It sums up the prevailing enough-about-you-let's-talk-about-me mindset. People often pitch an argument that sounds persuasive to themselves, not to their listeners. This rehtorical mistake can be fatal, because messages that appeal only to the speaker have a tendency to bommerang. You saw how important sympathy is in argument by emotion; the same thing goes with argument by logic. In deliberative argument, you need to convince your audience that the choice you offer is the most advantageous--to the advantage of the audience, that is, not you. This brings us back to values. The advantageous is an outcome that gives the audience what it values.  
-###### Argument Tool: THE ADVANTAGEOUS: Base your argument on what's good for the audience, not for you.
+  
+**Argument Tool: THE ADVANTAGEOUS: Base your argument on what's good for the audience, not for you.**
   
 If you can persuade a two-year-old that eating her oatmeal is to her advantage, for example, then she may actually comply. Suppose the toddler holds the value that older brothers should be taken down a peg.  
   
@@ -50,6 +51,6 @@ Or _can_ she?
 #### Cracking Good Clichés
 Before you begin an argument, first determine what your audience is thinking. You need to know its beliefs and values, the views it holds in common. The common sense of your audience is square one--the beginning point of your argument. To shift people's point of view, start from their position, not yours. In rhetoric, we call this spot a **commonplace**--a viewpoint your audience holds in common. You can use it as your argument's jumping off point.  
 
-##### Argument Tool: THE COMMONPLACE: Use it as the jumping-off point of your argument.
+**Argument Tool: THE COMMONPLACE: Use it as the jumping-off point of your argument.**
 
 We equate a commonpalce with a cliché, but the terms once had a broader connotation. The rhetorical commonplace is a short-form expression of common sense or public opinion. It can range from a political belief (all people are created equal) to a practical matter (it's cheaper to buy in bulk). Commonplaces represent beliefs or rules of thumb, not facts; people are created equal only if you agree on the definitions for "created" and "equal," and it's not always cheaper to buy in bulk. A commonplace is not just anything that pops into a person's head, however. "I'm hungry" does not represent a commonplace. But "When I'm hungry, I eat right away" _is_ a commonplace, as is "When I'm hungry, that's good: it means I'm burning fat." Different groups (such as healthy eaters and dieters) have different commonplaces. In fact, people identify with their groups through the groups' commonplaces. These attitudes, beliefs, and values also determine a person's self-identity--the assumptions and outlook on the world that define an individual. We will delve into identity later; right now, let's look at the commonplace as the starting point of rhetorical logic. 
