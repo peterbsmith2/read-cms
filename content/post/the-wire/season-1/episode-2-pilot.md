@@ -54,6 +54,96 @@ Fine, Cedric, fuck, whatever. Jesus Christ.
 ### Analysis
 In this vignette Lt Daniels is persistent in his argument that Contrell give him Sydnor. He asks four times in as many sentences. As written, Daniels is persistent without commiting any [rhetorical fouls]() nor resorting to [argument by stick](). In the show the tone of the actor is exasperated. However, in plain written letter above you can read that Lt. Daniels was 100% effective in his persuasiveness.  
   
+---
+### Scene
+**D'Angelo**  
+They used your name, Stringer, Wee-Bey...  
+Savino, Peanut....  
+They knew a lot of names. They knew a lot.  
+  
+**Avon Barksdale**  
+But you didn't say nothing?  
+  
+**D'Angelo**  
+Shit, man, I don't know nothing.  
+  
+**Avon Barksdale**  
+What was you writing then?  
+  
+**D'Angelo**  
+Yo, they was talking about  
+the man who got killed...  
+and his kids, they asked me to write.  
+  
+**Avon Barksdale**  
+What you got to do with them, Dee?  
+  
+**D'Angelo**  
+Yeah, that's what I said.  
+Then they cried  
+about how the kids ain't doing so good.  
+I'm like, it ain't gonna hurt for me  
+to say I'm sorry the man got killed.  
+  
+**Avon Barksdale**  
+Why the fuck you gotta say you're sorry?  
+Motherfuckers tried to  
+put your ass in the stir.  
+  
+**D'Angelo**  
+Yeah, but it didn't turn out that way.  
+You know, that's what I'm saying,  
+it's a shame that y'all....  
+I'm saying, it's a shame  
+what happened to that man, all right?  
+'Cause he didn't do anything  
+but come off the elevator...  
+when I was doing that thing  
+that I was doing.  
+  
+**Avon Barksdale**  
+What you think, cuz?  
+  
+**D'Angelo**  
+About what?  
+  
+**Avon Barksdale**  
+I'm saying, what you think  
+about what happened to the man?  
+You think we killed the motherfucker?  
+Speak your mind.  
+  
+**D'Angelo**  
+Man, I don't know.  
+  
+**Avon Barksdale**  
+Exactly.  
+You don't know,  
+and you don't need to know.  
+And if we did, we had a reason.  
+And if we didn't, we had a reason.  
+But either way,  
+you ain't got shit to do with it.  
+It ain't on you, cuz.  
+You feel me? It ain't on you.  
+Now, if you get jacked again...  
+I don't want to hear shit about  
+you writing nothing to no one.  
+Got it?  
+  
+**D'Angelo**  
+Yeah.  
+  
+**Avon Barksdale**  
+Come on, let's have some good times...  
+and get some ribs  
+before they done ate all the ribs up.  
+
+### Analysis
+Here, rhetorically, Avon Barksdale is winning. D'Angelo apologizes in a professional setting. That act of self-debasement is a tell and now Avon makes it clear to D'Angelo who he apologized to: men who were trying to put him in prison.  
+  
+The obvious improvement D'Angelo could have made here might be an [ethos-raising apology](), however, more than that he could have done something akin to [witness bragging](), which is simply to get his lawyer to represent him.  
+The lawyers value is not that he knows more about the law, it is that he is a disinterested party to raise the ethos of his client.
 ---  
 ### Scene
 **Herc**  
@@ -347,3 +437,4 @@ I can't fix it, you're on your own.
   
 ### Analysis
 Lt. Daniels has great rhetorical use of [division]() when suggesting a better story (bullshit) of what happened when Prez hit the kid with the butt of his gun.  Before that he does a lot of [narration](). Then he ends it with a [proof](), "go practice. You fuck the bullshit up when you talk to internal...I can't fix it, you're on your own." Perhaps, as is the case with non-dramatic real-life, there is no need for a formal conclusion, the scene simply ends.  
+
