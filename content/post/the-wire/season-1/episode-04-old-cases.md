@@ -1,6 +1,6 @@
 +++
 title = "Old Cases"
-episode_number=4
+episode_number=04
 "the wire"=["season 1"]
 +++
 
