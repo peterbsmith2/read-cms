@@ -1,9 +1,8 @@
 +++
 title = "Ben Walsh 10/26/2017"
 analyses = ["media"]
+analysisDate = "??/??/2018"
 +++
-
-## Analysis Date: ??/??/2018
 
 ### Key Speakers
 

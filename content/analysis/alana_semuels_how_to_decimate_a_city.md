@@ -1,6 +1,7 @@
 +++
 title = "Alana Semeuls, How To Decimate A City"
 analyses = ["speech"]
+analysisDate = "??/??/2018"
 +++
 
 
