@@ -242,7 +242,8 @@ before they done ate all the ribs up.
 Here, rhetorically, Avon Barksdale is winning. D'Angelo apologizes in a professional setting. That act of self-debasement is a tell and now Avon makes it clear to D'Angelo who he apologized to: men who were trying to put him in prison.  
   
 The obvious improvement D'Angelo could have made here might be an [ethos-raising apology](), however, more than that he could have done something akin to [witness bragging](), which is simply to get his lawyer to represent him.  
-The lawyers value is not that he knows more about the law, it is that he is a disinterested party to raise the ethos of his client.
+The lawyers value is not that he knows more about the law, it is that he is a disinterested party to raise the ethos of his client.  
+  
 ---  
 ### Scene
 **Herc**  
