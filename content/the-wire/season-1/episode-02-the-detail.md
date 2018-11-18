@@ -56,6 +56,105 @@ In this vignette Lt Daniels is persistent in his argument that Contrell give him
   
 ---
 ### Scene
+**Foerester**  
+How did you handle the judge?  
+  
+**Burrell**  
+I told him we were looking  
+closely at the situation.  
+I asked him not to say anything publicly.  
+  
+**Foerester**  
+So, then he's not gonna go public, right?  
+  
+Judge Phelan called this morning...  
+crying about a witness  
+in his murder trial who was killed.  
+  
+**Lt Daniels**  
+Did the judge say where he heard it?  
+  
+**Foerester**  
+He heard it from our man, McNulty.  
+That's his pipeline on this crap.  
+  
+**Rawls**  
+Pardon my French, but I got no problem  
+giving that asshole up at this point.  
+I don't need people I can't trust.  
+  
+**Burrell**  
+Well, who does?  
+  
+**Rawls**  
+The newspapers get hold of this,  
+it'll be a complete clusterfuck.  
+  
+**Burrell**  
+Okay, so the thing to do  
+is reassure the judge...  
+keep him off his damn soapbox.  
+An arrest or two would help.  
+  
+**Lt Daniels**  
+What if it's true?  
+What if Barksdale ordered the murder  
+of a state's witness?  
+
+**Forester**  
+Are you serious?  
+  
+**Rawls**  
+Why would anyone do that  
+after the witness testifies?  
+It has no effect on the case.  
+  
+**Lt Daniels**  
+Payback, plain and simple.  
+  
+**Rawls**  
+Bullshit, plain and simple.  
+  
+**Lt Daniels**  
+Look, I know there could be  
+two dozen other reasons...  
+for this man to be murdered, but what if--  
+  
+**Burrell**  
+No money for pretrial.  
+No witness protection program.  
+Look, this is a poor fucking city, gentlemen.  
+The last thing we ever need to do  
+is to announce we lost a witness.  
+I mean, it's hard enough  
+pushing felony casework...  
+through that courthouse as it is.  
+  
+**Rawls**  
+You got to pull McNulty off this.  
+  
+**Lt Daniels**  
+Who caught the murder case?  
+  
+**Rawls**  
+Bunk Moreland, McNulty's partner.  
+  
+**Lt Daniels**  
+Then you'd have to pull him, too.  
+  
+**Burrell**  
+No, we pull McNulty up,  
+the judge will bring the press into this.  
+I can see that a mile away.  
+No, we're gonna sit tight,  
+let McNulty take his best shot...  
+and hope like hell he comes up short.  
+  
+### Analysis
+In this vignette Burrell shines. He uses his ethos to make the final call on the way to handle the situation. His ethos comes from his rank, and that is the most persuasive form of argument according to aristotle.  
+  
+---
+### Scene
 **D'Angelo**  
 They used your name, Stringer, Wee-Bey...  
 Savino, Peanut....  
