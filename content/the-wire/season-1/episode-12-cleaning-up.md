@@ -1,6 +1,7 @@
 +++
 title = "Cleaning Up"
 episode_number=12
+weight=12
 "the wire"=["season 1"]
 +++
 

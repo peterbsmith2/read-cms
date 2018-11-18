@@ -1,6 +1,7 @@
 +++
 title = "The Pager"
 episode_number=05
+weight=5
 "the wire"=["season 1"]
 +++
 

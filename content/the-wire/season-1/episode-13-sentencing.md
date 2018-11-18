@@ -1,6 +1,7 @@
 +++
 title = "Sentencing"
 episode_number=13
+weight=13
 "the wire"=["season 1"]
 +++
 
