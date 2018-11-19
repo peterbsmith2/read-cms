@@ -5,7 +5,7 @@ analysisDate = "09/04/2018"
 +++
 
 ### Key Speakers
-- Senator Grassley, Chairman
+- Senator Grassley, Chairman from Iowa
 - Senator Klobuchar of Minnesota
 - Sentaor Sasse, Republican
 - Senator Coons, Democrat
@@ -42,7 +42,8 @@ analysisDate = "09/04/2018"
 - Whitehouse
   - uses a [catalog]() for 5-4 decisions by supreme court justices
 - Cruz
-  
+- Klobuchar
+  - gesticulates everytime she makes an important point, what did aristotle say about this?  
 
 ### Assertions
 

@@ -1,6 +1,7 @@
 +++
 title = "Pilot"
 episode_number=01
+weight=1
 "the wire"=["season 1"]
 +++
 
